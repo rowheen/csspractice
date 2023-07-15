@@ -1,0 +1,13 @@
+.fontstyle{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.bg1{
+    background-color: black;
+    color: white;
+}
+
+.bg2{
+    background-color: yellow;
+}
